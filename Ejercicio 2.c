@@ -1,4 +1,4 @@
-*Arenas Mimbrera Karen Mariel
+/*Arenas Mimbrera Karen Mariel
 Construir un diagrama de flujo tal que dado el radio de un cırculo, calcule
 e imprima el  ́area y la circunferencia. El ́area del cırculo se calcula como
 Area = π ∗ radio2 y la circunferencia se calcula como Circunferencia=2 ∗ π ∗ radio.*/
@@ -6,7 +6,8 @@ Area = π ∗ radio2 y la circunferencia se calcula como Circunferencia=2 ∗ π
 #include <stdio.h>
 #include <math.h> // Para usar la constante M_PI y funciones matemáticas
 
-int main() {
+int main() 
+{
     // Declarar una variable para el radio
     float radio, area, circunferencia;
     
