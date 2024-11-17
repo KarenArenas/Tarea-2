@@ -4,7 +4,8 @@ calcular la suma, resta y multiplicaci ́on de dichos numeros.*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     // Declarar las variables para los dos números
     float num1, num2;
     
